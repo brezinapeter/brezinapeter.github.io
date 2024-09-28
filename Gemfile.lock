@@ -1,5 +1,6 @@
 GEM
-  remote: https://rubygems.org/
+  Source “https://rubygems.org”
+  gem “ffi”, “= 1.16.3”
   specs:
     addressable (2.8.7)
       public_suffix (>= 2.0.2, < 7.0)
