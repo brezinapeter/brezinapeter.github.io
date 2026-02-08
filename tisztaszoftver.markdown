@@ -16,7 +16,7 @@ Ez az útmutató bemutatja, hogyan tudsz Microsoft Office licencet igényelni é
 
 Nyisd meg az alábbi oldalt: https://tisztaszoftver.hu/igenyles
 
-![Tisztaszoftver kezdőoldal](assets/images/tisztaszoftver/01-kezdooldal.png)
+![Tisztaszoftver kezdőoldal]({{ site.baseurl }}/assets/images/tisztaszoftver/01-kezdooldal.png)
 
 Kattints a: **Személyes** gombra.
 
@@ -24,7 +24,7 @@ Kattints a: **Személyes** gombra.
 
 Kattints a: **KRÉTA** gombra.
 
-![KRÉTA bejelentkezés](assets/images/tisztaszoftver/02-kreta.png)
+![KRÉTA bejelentkezés]({{ site.baseurl }}/assets/images/tisztaszoftver/02-kreta.png)
 
 ---
 
@@ -32,7 +32,7 @@ Kattints a: **Bejelentkezés** gombra.
 
 Majd: **Bejelentkezés Krétával**
 
-![KRÉTA login](assets/images/tisztaszoftver/03-login.png)
+![KRÉTA login]({{ site.baseurl }}/assets/images/tisztaszoftver/03-login.png)
 
 ---
 
@@ -42,13 +42,13 @@ Add meg:
 - jelszavad
 - intézményed
 
-![KRÉTA adatok](assets/images/tisztaszoftver/04-adatok.png)
+![KRÉTA adatok]({{ site.baseurl }}/assets/images/tisztaszoftver/04-adatok.png)
 
 ---
 
 Add meg az email címed.
 
-![Email megadás](assets/images/tisztaszoftver/05-email.png)
+![Email megadás]({{ site.baseurl }}/assets/images/tisztaszoftver/05-email.png)
 
 ---
 
@@ -56,7 +56,7 @@ Nyisd meg az emailt és kattints:
 
 **Regisztráció folytatása**
 
-![Email visszaigazolás](assets/images/tisztaszoftver/06-email-megerosites.png)
+![Email visszaigazolás]({{ site.baseurl }}/assets/images/tisztaszoftver/06-email-megerosites.png)
 
 ---
 
@@ -64,7 +64,7 @@ Nyisd meg az emailt és kattints:
 
 Töltsd ki az adatokat.
 
-![Regisztráció](assets/images/tisztaszoftver/07-regisztracio.png)
+![Regisztráció]({{ site.baseurl }}/assets/images/tisztaszoftver/07-regisztracio.png)
 
 A jelszónak tartalmaznia kell:
 
@@ -82,16 +82,16 @@ Fogadd el a feltételeket.
 
 Kattints: **Office licence igénylése**
 
-![Licenc igénylés](assets/images/tisztaszoftver/08-licenc.png)
+![Licenc igénylés]({{ site.baseurl }}/assets/images/tisztaszoftver/08-licenc.png)
 
 ---
 
 Kattints: **Igénylés** 
-![Licenc igénylés](assets/images/tisztaszoftver/081-igenyles.png)
+![Licenc igénylés]({{ site.baseurl }}/assets/images/tisztaszoftver/081-igenyles.png)
 
 Majd: **Aktiválás**
 
-![Licenc aktiválás](assets/images/tisztaszoftver/09-aktivalas.png)
+![Licenc aktiválás]({{ site.baseurl }}/assets/images/tisztaszoftver/09-aktivalas.png)
 
 ---
 
@@ -108,7 +108,7 @@ Ez általában:
 
 Kattints az Office ikon melletti zöld gombra.
 
-![Office azonosító](assets/images/tisztaszoftver/10-azonosito.png)
+![Office azonosító]({{ site.baseurl }}/assets/images/tisztaszoftver/10-azonosito.png)
 
 Másold ki az azonosítót.
 
@@ -118,7 +118,7 @@ Nyisd meg a Word alkalmazást.
 
 Jelentkezz be az azonosítóval.
 
-![Word login](assets/images/tisztaszoftver/11-word-login.png)
+![Word login]({{ site.baseurl }}/assets/images/tisztaszoftver/11-word-login.png)
 
 ---
 
@@ -132,7 +132,7 @@ Fogadd el a feltételeket.
 
 Másold ki a: **Bejelentkező név az Office oldalra**  utáni azonosítót.
 
-![Office oldal](assets/images/tisztaszoftver/12-office.png)
+![Office oldal]({{ site.baseurl }}/assets/images/tisztaszoftver/12-office.png)
 
 ---
 
@@ -144,19 +144,19 @@ Majd: **Bejelentkezés**
 
 Illeszd be az azonosítót.
 
-![Office login](assets/images/tisztaszoftver/13-office-login.png)
+![Office login]({{ site.baseurl }}/assets/images/tisztaszoftver/13-office-login.png)
 
 ---
 
 # 3.1 Office letöltése
 
 Kattints: **Office telepítése**
-![Office login](assets/images/tisztaszoftver/13-1-office-letolt.png)
+![Office login]({{ site.baseurl }}/assets/images/tisztaszoftver/13-1-office-letolt.png)
 
 
 Majd: **Office 365-appok**
 
-![Office letöltés](assets/images/tisztaszoftver/14-download.png)
+![Office letöltés]({{ site.baseurl }}/assets/images/tisztaszoftver/14-download.png)
 
 ---
 
@@ -179,7 +179,7 @@ Indítsd el a Word alkalmazást.
 
 Jelentkezz be.
 
-![Aktiválás](assets/images/tisztaszoftver/16-aktiv.png)
+![Aktiválás]({{ site.baseurl }}/assets/images/tisztaszoftver/16-aktiv.png)
 
 ---
 
