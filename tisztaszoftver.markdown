@@ -186,4 +186,3 @@ Jelentkezz be.
 # Kész
 
 Az Office használatra kész.
-
